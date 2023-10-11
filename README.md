@@ -9,7 +9,7 @@ Demo: http://albumy.helloflask.com
 ![Screenshot](https://helloflask.com/screenshots/albumy.png)
 
 ## Installation
-hib
+hibsadam,sdm,
 clone:
 ```
 $ git clone #YOUR_FORKED_REPO
